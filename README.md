@@ -1,149 +1,110 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:050510,40:39FF14,70:FF10F0,100:04D9FF&height=230&section=header&text=SHYAM%20DANIEL%20PV&fontSize=44&fontColor=050510&fontAlign=50&fontAlignY=42&animation=twinkling&desc=MECHATRONICS%20%2F%2F%20EMBEDDED%20%2F%2F%20AUTOMATION&descSize=15&descAlignY=65&descColor=050510" alt="Shyam Daniel PV banner" />
+  <img src="hero.svg" alt="Shyam Daniel PV: Mechatronics, Embedded Systems, Automation" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1300&color=39FF14&center=true&vCenter=true&width=800&height=40&lines=%3E+bridging+intelligence+and+automation;%3E+sensors+%2B+motors+%2B+microcontrollers;%3E+open+to+internships" alt="Typing text" />
+  <img src="https://img.shields.io/badge/Class_of-2028-171E2B?style=for-the-badge&labelColor=DDB3A3" />
+  <img src="https://img.shields.io/badge/CGPA-8.00-171E2B?style=for-the-badge&labelColor=DDB3A3" />
+  <img src="https://img.shields.io/badge/Open_to-Internships-171E2B?style=for-the-badge&labelColor=DDB3A3" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CLASS_OF-2028-39FF14?style=for-the-badge&labelColor=0B0B14" />
-  <img src="https://img.shields.io/badge/CGPA-8.00-FF10F0?style=for-the-badge&labelColor=0B0B14" />
-  <img src="https://img.shields.io/badge/OPEN_TO-INTERNSHIPS-04D9FF?style=for-the-badge&labelColor=0B0B14" />
+  <a href="mailto:shyamzzz2922@gmail.com"><img src="https://img.shields.io/badge/Email-171E2B?style=flat-square&logo=gmail&logoColor=DDB3A3" /></a>
+  <a href="https://www.linkedin.com/in/shyamdaniel"><img src="https://img.shields.io/badge/LinkedIn-171E2B?style=flat-square&logo=linkedin&logoColor=DDB3A3" /></a>
+  <a href="tel:+917010519600"><img src="https://img.shields.io/badge/Call-171E2B?style=flat-square&logo=googlemessages&logoColor=DDB3A3" /></a>
 </p>
 
-<p align="center">
-  <a href="mailto:shyamzzz2922@gmail.com"><img src="https://img.shields.io/badge/EMAIL-39FF14?style=for-the-badge&logo=gmail&logoColor=black" /></a>
-  <a href="https://www.linkedin.com/in/shyamdaniel"><img src="https://img.shields.io/badge/LINKEDIN-04D9FF?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
-  <a href="tel:+917010519600"><img src="https://img.shields.io/badge/CALL-FF10F0?style=for-the-badge&logo=googlemessages&logoColor=black" /></a>
-</p>
+<img src="divider.svg" width="100%" height="2" />
 
-<img src="divider.svg" width="100%" height="8" />
+### About
 
-<h2 align="center">[ WHO AM I ]</h2>
+I'm a B.E. Mechatronics Engineering student at **SNS College of Technology**, Coimbatore (2024 – 2028).
+I'm looking for an internship where I can work on AI-driven manufacturing and embedded control, using Arduino, ESP32 and Raspberry Pi. I'm especially drawn to motion control and electronics integration.
 
-<p align="center">
-  B.E. Mechatronics Engineering student at <b>SNS College of Technology</b>, Coimbatore (2024 – 2028).<br>
-  I want hands-on experience in AI-driven manufacturing and embedded control,<br>
-  with a strong interest in motion control and electronics integration.
-</p>
+<img src="divider.svg" width="100%" height="2" />
 
-<img src="divider.svg" width="100%" height="8" />
+### Selected Work
 
-<h2 align="center">[ PROJECTS ]</h2>
-
-<p align="center">🟢 Finished &nbsp;·&nbsp; 🟡 In progress &nbsp;·&nbsp; 🟠 Exploring</p>
-
-<table align="center">
+<table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🦾 Prosthetic Arm 🟢</h3>
-      <b>Featured project.</b> Sensors plus embedded control to restore basic hand movement. I worked on sensor integration, testing and prototype development.
+      <b>Prosthetic Arm</b> &nbsp;<sub>Featured · Completed</sub><br><br>
+      Sensors and embedded control combined to restore basic hand movement. My role covered sensor integration, testing and prototype development.
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 Robotic Arm 🟢</h3>
-      Actuators, sensors and embedded control combined into a working arm. I worked on design, programming, testing and prototyping.
+      <b>Robotic Arm</b> &nbsp;<sub>Completed</sub><br><br>
+      Actuators, sensors and embedded control integrated into a working arm. My role covered design, programming, testing and prototyping.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📡 Ultrasonic Radar 🟢</h3>
-      Detects objects and measures distance in real time with a microcontroller and ultrasonic sensor, with live visualization.
+      <b>Ultrasonic Radar</b> &nbsp;<sub>Completed</sub><br><br>
+      Real-time object detection and distance measurement with a microcontroller and ultrasonic sensor, with live visualization.
     </td>
     <td width="50%" valign="top">
-      <h3>🔐 Certify Secure 🟢</h3>
+      <b>Certify Secure</b> &nbsp;<sub>Completed</sub><br><br>
       Blockchain-based system for tamper-proof certificate issuing and real-time verification.
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <h3>📝 Assignment Submission App 🟢</h3>
+      <b>Assignment Submission App</b> &nbsp;<sub>Completed</sub><br><br>
       An app where students submit assignments and faculty receive and review them.
     </td>
   </tr>
 </table>
 
-<img src="divider.svg" width="100%" height="8" />
+<img src="divider.svg" width="100%" height="2" />
 
-<h2 align="center">[ SKILLS ]</h2>
+### Toolkit
 
-<table align="center">
+**Embedded** &nbsp; <img src="https://img.shields.io/badge/ESP32-171E2B?style=flat-square&labelColor=DDB3A3&color=171E2B&logoColor=white" /> <img src="https://img.shields.io/badge/Arduino-171E2B?style=flat-square&labelColor=DDB3A3&color=171E2B&logoColor=white" /> <img src="https://img.shields.io/badge/Raspberry_Pi-171E2B?style=flat-square&labelColor=DDB3A3&color=171E2B&logoColor=white" />
+
+**Hardware** &nbsp; <img src="https://img.shields.io/badge/Sensor_Interfacing-171E2B?style=flat-square&labelColor=DDB3A3&color=171E2B&logoColor=white" /> <img src="https://img.shields.io/badge/Calibration-171E2B?style=flat-square&labelColor=DDB3A3&color=171E2B&logoColor=white" /> <img src="https://img.shields.io/badge/Communication_Protocols-171E2B?style=flat-square&labelColor=DDB3A3&color=171E2B&logoColor=white" /> <img src="https://img.shields.io/badge/Fabrication-171E2B?style=flat-square&labelColor=DDB3A3&color=171E2B&logoColor=white" />
+
+**Software** &nbsp; <img src="https://img.shields.io/badge/Python-171E2B?style=flat-square&labelColor=DDB3A3&color=171E2B&logoColor=white" /> <img src="https://img.shields.io/badge/MATLAB-171E2B?style=flat-square&labelColor=DDB3A3&color=171E2B&logoColor=white" />
+
+**Practice** &nbsp; <img src="https://img.shields.io/badge/Prototyping-171E2B?style=flat-square&labelColor=DDB3A3&color=171E2B&logoColor=white" /> <img src="https://img.shields.io/badge/Testing-171E2B?style=flat-square&labelColor=DDB3A3&color=171E2B&logoColor=white" />
+
+<img src="divider.svg" width="100%" height="2" />
+
+### Experience
+
+<table>
   <tr>
-    <th>EMBEDDED</th>
-    <th>HARDWARE</th>
-    <th>SOFTWARE</th>
-    <th>PRACTICE</th>
+    <td width="30%" valign="top"><b>B Touch Ind</b><br><sub>Coimbatore</sub></td>
+    <td valign="top">Prosthetic arm development with sensors and signal integration. Served as Software Team Manager, leading coordination and project execution.</td>
   </tr>
   <tr>
-    <td align="center">ESP32<br>Arduino<br>Raspberry Pi</td>
-    <td align="center">Sensor interfacing<br>Calibration<br>Communication protocols<br>Fabrication</td>
-    <td align="center">Python<br>MATLAB (basics)</td>
-    <td align="center">Prototyping<br>Testing</td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,matlab,arduino,raspberrypi,git,github,vscode&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/ESP32-FF10F0?style=for-the-badge&logo=espressif&logoColor=black" />
-</p>
-
-<img src="divider.svg" width="100%" height="8" />
-
-<h2 align="center">[ EXPERIENCE ]</h2>
-
-<table align="center">
-  <tr>
-    <td><b>B Touch Ind, Coimbatore</b></td>
-    <td>Prosthetic arm development (sensors and signal integration). Software Team Manager, leading coordination and execution.</td>
+    <td valign="top"><b>Frank Technologies Pvt. Ltd.</b><br><sub>Dec 2025</sub></td>
+    <td valign="top">Exposure to air compressor manufacturing and core industrial processes.</td>
   </tr>
   <tr>
-    <td><b>Frank Technologies Pvt. Ltd.</b><br>Dec 2025</td>
-    <td>Air compressor manufacturing and core industrial processes.</td>
-  </tr>
-  <tr>
-    <td><b>Shabari Impex Industry</b><br>Jul 2025</td>
-    <td>Injection moulding operations, mould design, quality inspection and automation.</td>
+    <td valign="top"><b>Shabari Impex Industry</b><br><sub>Jul 2025</sub></td>
+    <td valign="top">Injection moulding operations, mould design, material handling, quality inspection and automation.</td>
   </tr>
 </table>
 
-<img src="divider.svg" width="100%" height="8" />
+<img src="divider.svg" width="100%" height="2" />
 
-<h2 align="center">[ WINS + LEADERSHIP ]</h2>
+### Recognition and Leadership
 
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      🏆 Winner, <b>Chennovate 2.0</b> Hackathon<br>
-      🏆 Winner, <b>Odyssey 3.0</b> Hackathon<br>
-      🎯 Smart India Hackathon, inter-college level<br>
-      🎓 Microsoft Azure AI Fundamentals<br>
-      🎓 IBM Design Thinking Practitioner<br>
-      🎓 MATLAB Onramp
-    </td>
-    <td width="50%" valign="top">
-      👑 Vice President, IETE Students Forum<br>
-      ⚙️ Executive Member, Tronexus Mechatronics Association<br>
-      🤖 Executive Member, Robotics Club<br>
-      🌐 English · Tamil · Malayalam (speaking)
-    </td>
-  </tr>
-</table>
+- Winner, **Chennovate 2.0** Hackathon
+- Winner, **Odyssey 3.0** Hackathon
+- Smart India Hackathon, inter-college level
+- Vice President, **IETE Students Forum**
+- Executive Member, **Tronexus** Mechatronics Engineering Association and **Robotics Club**
+- Certifications: Microsoft Azure AI Fundamentals · IBM Design Thinking Practitioner · MATLAB Onramp
+- Languages: English · Tamil · Malayalam (speaking)
 
-<img src="divider.svg" width="100%" height="8" />
+<img src="divider.svg" width="100%" height="2" />
 
-<h2 align="center">[ CONTACT ]</h2>
+### Contact
 
-<p align="center">
-  📧 <a href="mailto:shyamzzz2922@gmail.com">shyamzzz2922@gmail.com</a><br>
-  🔗 <a href="https://www.linkedin.com/in/shyamdaniel">linkedin.com/in/shyamdaniel</a><br>
-  📞 <a href="tel:+917010519600">7010519600</a>
-</p>
+Hiring for embedded, robotics or automation? I'd be glad to talk.
 
-<p align="center"><b>&gt; BUILD IT. TEST IT. SHIP IT._</b></p>
+- Email: [shyamzzz2922@gmail.com](mailto:shyamzzz2922@gmail.com)
+- LinkedIn: [linkedin.com/in/shyamdaniel](https://www.linkedin.com/in/shyamdaniel)
+- Phone: [7010519600](tel:+917010519600)
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:04D9FF,50:FF10F0,100:39FF14&height=90&section=footer" />
-</p>
+<p align="center"><sub><i>Where code meets motion.</i></sub></p>
