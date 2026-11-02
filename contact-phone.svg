@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 40" width="140" height="40" role="img" aria-label="Call Contact Button">
+  <!-- Pill shape background -->
+  <rect x="1" y="1" width="138" height="38" rx="19" fill="#171E2B" stroke="#DDB3A3" stroke-width="1.2" stroke-opacity="0.35">
+    <animate attributeName="stroke-opacity" values="0.35;0.9;0.35" dur="3s" repeatCount="indefinite" begin="2s" />
+  </rect>
+
+  <!-- Phone Handset Icon with gentle vertical bob -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -1.5; 0 0" dur="3s" repeatCount="indefinite" begin="2s" />
+    <g transform="translate(18, 10)">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none">
+        <path d="M6.62 10.79C8.06 13.62 10.38 15.93 13.21 17.38L15.41 15.18C15.68 14.91 16.08 14.82 16.43 14.94C17.55 15.31 18.76 15.51 20 15.51C20.55 15.51 21 15.96 21 16.51V20C21 20.55 20.55 21 20 21C10.61 21 3 13.39 3 4C3 3.45 3.45 3 4 3H7.5C8.05 3 8.5 3.45 8.5 4C8.5 5.25 8.7 6.45 9.07 7.57C9.18 7.92 9.1 8.31 8.82 8.59L6.62 10.79Z" fill="#DDB3A3" />
+      </svg>
+    </g>
+  </g>
+
+  <!-- Label Text -->
+  <text x="48" y="24.5" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="12.5" font-weight="600" letter-spacing="1.5" fill="#F3E9E4">CALL</text>
+</svg>

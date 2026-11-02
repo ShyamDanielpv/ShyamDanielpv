@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 92" width="100%" height="92" role="img" aria-label="Status: Class of 2028, CGPA 8.00, Open to Internships">
+  <defs>
+    <!-- Shimmer linear gradient -->
+    <linearGradient id="shimmer" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0" />
+      <stop offset="42%" stop-color="#ffffff" stop-opacity="0" />
+      <stop offset="50%" stop-color="#DDB3A3" stop-opacity="0.14" />
+      <stop offset="58%" stop-color="#ffffff" stop-opacity="0" />
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0" />
+    </linearGradient>
+
+    <!-- Clip path covering the three card shapes -->
+    <clipPath id="cards-clip">
+      <rect x="10" y="8" width="260" height="76" rx="12" />
+      <rect x="290" y="8" width="260" height="76" rx="12" />
+      <rect x="570" y="8" width="260" height="76" rx="12" />
+    </clipPath>
+  </defs>
+
+  <!-- Overall Fade-in and Slide-up on Load -->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.8s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    <animateTransform attributeName="transform" type="translate" from="0 14" to="0 0" dur="0.8s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+
+    <!-- ==================== CARD 1: CLASS OF 2028 ==================== -->
+    <g id="card-class">
+      <rect x="10" y="8" width="260" height="76" rx="12" fill="#171E2B" stroke="#DDB3A3" stroke-width="1" stroke-opacity="0.30" />
+      <!-- Subtle top inner highlight -->
+      <line x1="24" y1="9" x2="256" y2="9" stroke="#ffffff" stroke-opacity="0.08" stroke-width="1" />
+      
+      <!-- Graduation Cap Icon -->
+      <g transform="translate(26, 26)">
+        <svg width="28" height="28" viewBox="0 0 24 24" fill="none">
+          <path d="M12 3L1 9L12 15L21 10.09V17H23V9L12 3Z" fill="#DDB3A3" />
+          <path d="M5 13.18V17.18L12 21L19 17.18V13.18L12 17L5 13.18Z" fill="#DDB3A3" fill-opacity="0.85" />
+        </svg>
+      </g>
+
+      <!-- Text -->
+      <text x="68" y="34" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" font-weight="600" letter-spacing="1.5" fill="#8A97AB">CLASS OF</text>
+      <text x="68" y="61" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="20" font-weight="700" letter-spacing="1" fill="#F3E9E4">2028</text>
+    </g>
+
+    <!-- ==================== CARD 2: CGPA 8.00 ==================== -->
+    <g id="card-cgpa">
+      <rect x="290" y="8" width="260" height="76" rx="12" fill="#171E2B" stroke="#DDB3A3" stroke-width="1" stroke-opacity="0.30" />
+      <!-- Subtle top inner highlight -->
+      <line x1="304" y1="9" x2="536" y2="9" stroke="#ffffff" stroke-opacity="0.08" stroke-width="1" />
+      
+      <!-- Achievement Star / Chart Badge Icon -->
+      <g transform="translate(306, 26)">
+        <svg width="28" height="28" viewBox="0 0 24 24" fill="none">
+          <path d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z" fill="#DDB3A3" />
+        </svg>
+      </g>
+
+      <!-- Text -->
+      <text x="348" y="34" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" font-weight="600" letter-spacing="1.5" fill="#8A97AB">ACADEMIC CGPA</text>
+      <text x="348" y="61" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="20" font-weight="700" letter-spacing="1" fill="#F3E9E4">8.00 <tspan font-size="13" font-weight="500" fill="#8A97AB">/ 10</tspan></text>
+    </g>
+
+    <!-- ==================== CARD 3: OPEN TO INTERNSHIPS ==================== -->
+    <g id="card-status">
+      <rect x="570" y="8" width="260" height="76" rx="12" fill="#171E2B" stroke="#DDB3A3" stroke-width="1" stroke-opacity="0.30" />
+      <!-- Subtle top inner highlight -->
+      <line x1="584" y1="9" x2="816" y2="9" stroke="#ffffff" stroke-opacity="0.08" stroke-width="1" />
+
+      <!-- Briefcase Icon -->
+      <g transform="translate(586, 26)">
+        <svg width="28" height="28" viewBox="0 0 24 24" fill="none">
+          <path d="M20 6H16V4C16 2.89 15.11 2 14 2H10C8.89 2 8 2.89 8 4V6H4C2.89 6 2 6.89 2 8V19C2 20.11 2.89 21 4 21H20C21.11 21 22 20.11 22 19V8C22 6.89 21.11 6 20 6ZM10 4H14V6H10V4ZM20 19H4V8H20V19Z" fill="#DDB3A3" />
+          <rect x="9" y="11" width="6" height="2" rx="0.5" fill="#DDB3A3" fill-opacity="0.8" />
+        </svg>
+      </g>
+
+      <!-- Pulsing Green Dot (Available indicator) -->
+      <circle cx="806" cy="24" r="4.5" fill="#4ADE80" />
+      <circle cx="806" cy="24" r="4.5" fill="#4ADE80" opacity="0.75">
+        <animate attributeName="r" values="4.5;12;4.5" dur="2.2s" repeatCount="indefinite" />
+        <animate attributeName="opacity" values="0.75;0;0.75" dur="2.2s" repeatCount="indefinite" />
+      </circle>
+
+      <!-- Text -->
+      <text x="628" y="34" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="11" font-weight="600" letter-spacing="1.5" fill="#8A97AB">OPEN TO</text>
+      <text x="628" y="61" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="18" font-weight="700" letter-spacing="1" fill="#4ADE80">INTERNSHIPS</text>
+    </g>
+
+    <!-- ==================== LOOPING SHIMMER SWEEP ==================== -->
+    <rect x="-840" y="0" width="840" height="92" fill="url(#shimmer)" clip-path="url(#cards-clip)">
+      <animate attributeName="x" from="-840" to="840" dur="4.8s" repeatCount="indefinite" />
+    </rect>
+  </g>
+</svg>
