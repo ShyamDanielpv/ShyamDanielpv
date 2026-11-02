@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 40" width="150" height="40" role="img" aria-label="Email Contact Button">
+  <!-- Pill shape background -->
+  <rect x="1" y="1" width="148" height="38" rx="19" fill="#171E2B" stroke="#DDB3A3" stroke-width="1.2" stroke-opacity="0.35">
+    <animate attributeName="stroke-opacity" values="0.35;0.9;0.35" dur="3s" repeatCount="indefinite" begin="0s" />
+  </rect>
+
+  <!-- Envelope Icon with gentle vertical bob -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -1.5; 0 0" dur="3s" repeatCount="indefinite" begin="0s" />
+    <g transform="translate(18, 10)">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none">
+        <path d="M20 4H4C2.9 4 2.01 4.9 2.01 6L2 18C2 19.1 2.9 20 4 20H20C21.1 20 22 19.1 22 18V6C22 4.9 21.1 4 20 4ZM20 8L12 13L4 8V6L12 11L20 6V8Z" fill="#DDB3A3" />
+      </svg>
+    </g>
+  </g>
+
+  <!-- Label Text -->
+  <text x="48" y="24.5" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="12.5" font-weight="600" letter-spacing="1.5" fill="#F3E9E4">EMAIL</text>
+</svg>
