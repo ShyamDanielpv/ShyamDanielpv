@@ -78,12 +78,7 @@ I'm looking for an internship where I can work on AI-driven manufacturing and em
   <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" alt="Arduino, Raspberry Pi" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
-  <img src="https://img.shields.io/badge/TB6600-STEPPER_DRIVERS-4A5568?style=flat-square&labelColor=202530" alt="TB6600 Stepper Drivers" />
-  <img src="https://img.shields.io/badge/Sensor_Interfacing-171E2B?style=flat-square&labelColor=DDB3A3" alt="Sensor Interfacing" />
-  <img src="https://img.shields.io/badge/Calibration-171E2B?style=flat-square&labelColor=DDB3A3" alt="Calibration" />
-  <img src="https://img.shields.io/badge/Communication_Protocols-171E2B?style=flat-square&labelColor=DDB3A3" alt="Communication Protocols" />
-  <img src="https://img.shields.io/badge/Fabrication-171E2B?style=flat-square&labelColor=DDB3A3" alt="Fabrication" />
+  <img src="hardware-badges.svg" alt="ESP32, TB6600 Stepper Drivers, Sensor Interfacing, Calibration, Communication Protocols, Fabrication" />
 </p>
 
 <img src="signal.svg" width="100%" alt="Animated oscilloscope showing raw and filtered sensor signal" />
@@ -135,9 +130,12 @@ I'm looking for an internship where I can work on AI-driven manufacturing and em
 
 <img src="heading-recognition.svg" width="100%" alt="Recognition and leadership" />
 
-<img src="wins.svg" width="100%" alt="2 hackathon wins, VP of IETE Students Forum, 3 certifications" />
+<img src="winner-tsm.svg" width="100%" alt="Winner at TSM Madurai 2026 Hackathon" />
+
+<img src="wins.svg" width="100%" alt="3 hackathon wins, VP of IETE Students Forum, 3 certifications" />
 
 
+- 🥇 Winner, **TSM Madurai 2026** Hackathon
 - 🥇 Winner, **Chennovate 2.0** Hackathon
 - 🥇 Winner, **Odyssey 3.0** Hackathon
 - 🎖️ Smart India Hackathon, inter-college level
